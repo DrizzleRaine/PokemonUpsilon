@@ -1,0 +1,9 @@
+// BEGIN_INTERNALS
+/*
+DIR: Icons 
+AUTO_FILE_DIR: ON
+MAP_ICON_TYPE: 0
+WINDOW: Pokemon.dm;PokemonDataBase.dme;VariableDataBase.dm;Icons\Gen_1.dmi;DecoyProcs.dm
+FILE: VariableDataBase.dm
+*/
+// END_INTERNALS
